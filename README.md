@@ -1,5 +1,9 @@
 # co3094dfd92493c9bcc978bec
 
+# Front-end Developer Path
+
+Completed personal site challenge from the scrimba front-end developer path.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
