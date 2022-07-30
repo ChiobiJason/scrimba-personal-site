@@ -1,8 +1,8 @@
 # co3094dfd92493c9bcc978bec
 
-# Front-end Developer Path
+# Front-end Career Path
 
-Completed personal site challenge from the scrimba front-end developer path.
+Completed personal site challenge from the scrimba front-end career path.
 
 ## About Scrimba
 
